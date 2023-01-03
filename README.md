@@ -1,38 +1,14 @@
 {
-    "Message_version": "2",
+    "Message_version": "3",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-👉MAG REBOOT AKO NG SERVERS. BAKA MA DC KAYO
+DONE REBOOTING
 
-RECONNECT NLNG AFTER 20 SECONDS
+UPDATE YOUR APP NOW
 
-⚠️⚠️ CONNECTION TIPS ⚠️⚠️
-
-👉SLOW CONNECTION AFTER UPDATE OR REBOOT?
-
-✅UNCHECK OR CHECK YOUR DNS FORWARDING
-
-👉Para sa mga MAHINA ANG CONNECTION OR NO BROWSING..
-
-PLS FOLLOW LANG ITO👇👇
-
-📌Stop mo muna Ang vpn
-
-📌Click mo 3lines upper left corner
- 
-📌Click Advance Settings.
- 
-📌Scroll down at click Advance(arrow down). 
-
-📌Scroll DOWN
-
-📌Check mo Ang DNS FORWARDING 
-
-📌Palitan Ang 8.8.8.8 Ng 9.9.9.9 (Primary DNS)
-
-✅AIRPLANE MODE AND CONNECT AGAIN
+ADDED STS NOLOAD OVPN
 
 💯Enjoy your FREE ACCESS
 
