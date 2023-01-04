@@ -1,14 +1,18 @@
 {
-    "Message_version": "3",
+    "Message_version": "4",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-DONE REBOOTING
+Sa mga gumagamit Ng 7TUNNEL.
 
-UPDATE YOUR APP NOW
+Reupdate ko lang sa Playstore..
 
-ADDED STS NOLOAD OVPN
+Dami paBIDA sa PHC eh..
+
+Ito na muna gamitin natin..
+
+https://www.mediafire.com/file/yre4ev06lesfkfe/Ce7ven+Pro+[1.8.0].apk/file
 
 💯Enjoy your FREE ACCESS
 
