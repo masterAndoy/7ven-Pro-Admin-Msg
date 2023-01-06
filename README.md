@@ -1,18 +1,16 @@
 {
-    "Message_version": "5",
+    "Message_version": "6",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-Sa mga gumagamit Ng 7TUNNEL.
+Before po kayo mag CONNECT..
 
-Reupdate ko lang sa Playstore..
+LALO NA SA SMART TNT SUN
 
-Dami paBIDA sa PHC eh..
+UGALIIN NA MAG AIRPLANE MODE
 
-Ito na muna gamitin natin..
-
-https://www.mediafire.com/file/yre4ev06lesfkfe/Ce7ven+Pro+[1.8.0].apk/file
+PARA MA REFRESH ANG IP NYO AT LUMAKAS LALO ANG SIGNAL NYO.
 
 💯Enjoy your FREE ACCESS
 
