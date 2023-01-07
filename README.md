@@ -1,16 +1,14 @@
 {
-    "Message_version": "6",
+    "Message_version": "7",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-Before po kayo mag CONNECT..
+OPEN YOUR APP NOW PARA MA UPDATE
 
-LALO NA SA SMART TNT SUN
+STS NOLOAD SSH SET UP NOW ONLINE
 
-UGALIIN NA MAG AIRPLANE MODE
-
-PARA MA REFRESH ANG IP NYO AT LUMAKAS LALO ANG SIGNAL NYO.
+LATEST VERSION: 2.7
 
 💯Enjoy your FREE ACCESS
 
