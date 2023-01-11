@@ -1,15 +1,17 @@
 {
-    "Message_version": "12",
+    "Message_version": "13",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-WAG KALIMUTAN NA MAG RATE SA PLAYSTORE..
+Pls UPDATE YOUR APK IN PLAYSTORE..
 
-AT MAG CLAIM NG ADS PARA MAY RESERBA KAYO NA COINS
+APP VERSION: 4.1
+CONFIG VERSION: 4.0
 
-TUMANGKILIK TAYO NG ORIGINAL
-ITO PO ANG LINK NG NASA PLAYSTORE👇👇
+🏆NEW FEATURES:
+👉UNLIMITED TIME FOR 3DAYS
+👉+50 COINS
 
 https://play.google.com/store/apps/details?id=ceven.tunnel.vpn.ph
 
