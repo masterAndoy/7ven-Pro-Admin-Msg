@@ -1,14 +1,14 @@
 {
-    "Message_version": "10",
+    "Message_version": "11",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
 SHOUTOUT NGA PALA KAY
 
-👉👉Eiman SahabiL
+👉👉Eiman SahabiL👈👈
 
-CRUSH NYA DAW ISA SA CLASSMATE NYA
+BUONG KAKLASE NA GAMIT ANG 7TUNNEL PRO
 
 📌📌BASA BASA BASA BASA
 
