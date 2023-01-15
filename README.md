@@ -1,18 +1,14 @@
 {
-    "Message_version": "15",
+    "Message_version": "16",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-WAG KALIMUTAN SA PAG GET COIN FROM ADS GUYS
+BACK TO BASIC..
 
-THANKS SA SUPPORTA..
-
-🏆NEW FEATURES:
+Latest Config Version: 4.4
 
 👉WAG LAGPAS SA 98 COINS
-
-👉UNLIMITED TIME FOR 1DAY LEFT
 
 https://play.google.com/store/apps/details?id=ceven.tunnel.vpn.ph
 
