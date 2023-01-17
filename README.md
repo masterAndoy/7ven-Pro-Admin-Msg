@@ -1,12 +1,17 @@
 {
-    "Message_version": "16",
+    "Message_version": "17",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-BACK TO BASIC..
+📌Para laging UPDATED about sa 7TUNNEL Pro.
+  Pls join sa FB GROUP KO..
+👉https://www.facebook.com/groups/715970969304309/?ref=share
 
-Latest Config Version: 4.4
+Sa mga NEW USERS!
+
+Mag ipon Ng COINS by:
+Tapping ( Get Coin from ADS ) 
 
 👉WAG LAGPAS SA 98 COINS
 
