@@ -1,19 +1,20 @@
 {
-    "Message_version": "19",
+    "Message_version": "20",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
 NEED UPDATE PARA MAKA CONNECT
 
-📌NEED INTERNET
-📌OPEN ANG APP PARA MA UPDATE
-📌LATEST CONFIG VERSION: 4.8
+📌Sa LAHAT NG SMART TNT SUN USERS
+📌SMART TNT SUN NoLoad 02 muna gamitin nyo
+📌LATEST CONFIG VERSION: 5.0
 
 📌Para laging UPDATED about sa 7TUNNEL Pro.
 
-  Pls join sa FB GROUP KO..
-👉https://www.facebook.com/groups/715970969304309/?ref=share
+  Pls visit this page para sa mga guides/tuts..
+
+👉https://www.facebook.com/7TUNNEL?mibextid=ZbWKwL
 
 https://play.google.com/store/apps/details?id=ceven.tunnel.vpn.ph
 
