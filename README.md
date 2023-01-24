@@ -1,5 +1,5 @@
 {
-    "Message_version": "20",
+    "Message_version": "21",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
@@ -7,8 +7,7 @@
 NEED UPDATE PARA MAKA CONNECT
 
 📌Sa LAHAT NG SMART TNT SUN USERS
-📌SMART TNT SUN NoLoad 02 muna gamitin nyo
-📌LATEST CONFIG VERSION: 5.0
+📌LATEST CONFIG VERSION: 5.1
 
 📌Para laging UPDATED about sa 7TUNNEL Pro.
 
