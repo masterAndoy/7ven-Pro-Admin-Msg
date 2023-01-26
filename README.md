@@ -1,14 +1,12 @@
 {
-    "Message_version": "23",
+    "Message_version": "24",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-Pakidownload po Ng Ce7ven Pro BACK-UP VPN
-natin.. Mag UPDATE Ang 7TUNNEL Pro mamaya.
-Baka mawalan kayo Ng internet. 
+Baka mag POP UP na Ang Update para sa Playstore
 
-Smart TNT Sun Noload palang Ang nagana dito
+Ang ce7ven Pro muna gamitin.. link👇
 
 https://www.mediafire.com/file/yre4ev06lesfkfe/Ce7ven+Pro+[1.8.0].apk/file
 
