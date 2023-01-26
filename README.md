@@ -1,18 +1,26 @@
 {
-    "Message_version": "24",
+    "Message_version": "25",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-Baka mag POP UP na Ang Update para sa Playstore
+📌📌PLAYSTORE UPDATE
 
-Ang ce7ven Pro muna gamitin.. link👇
+Punta Ng Playstore..
 
-https://www.mediafire.com/file/yre4ev06lesfkfe/Ce7ven+Pro+[1.8.0].apk/file
+Wag click Ang OPEN
 
-  Pls visit this page para sa mga guides/tuts..
+Click 7tunnel Pro
 
-👉https://www.facebook.com/7TUNNEL?mibextid=ZbWKwL
+Tapos UPDATE..
+
+Latest App Version: 4.3
+
+Latest Config Version: 5.3
+
+✅UPGRADED APP SECURITY
+
+✅ANTI SNIFF (SANA😁)
 
 https://play.google.com/store/apps/details?id=ceven.tunnel.vpn.ph
 
