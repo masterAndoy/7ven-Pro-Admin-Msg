@@ -1,20 +1,14 @@
 {
-    "Message_version": "26",
+    "Message_version": "27",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-Sa mga naka 
-✅SMART
-✅TNT
-✅SUN
+SINCE DOWN PAANG CLOUDFRONT NG SMART TNT SUN
 
-Sa 👉Smart TNT Sun NoLoad 02👈
+GTM NOLOAD MUNA GUYS..
 
-Muna lahat mag connect.. Down pa Ang Isang CloudFront..
-
-Latest App Version: 4.3
-Latest Config Version: 5.5
+MAYA PA ANG UPDATE..
 
 Thanks and ENJOY FREE INTERNET ACCESS
 
