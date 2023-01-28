@@ -1,30 +1,28 @@
 {
-    "Message_version": "25",
+    "Message_version": "26",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-📌📌PLAYSTORE UPDATE
+Sa mga naka 
+✅SMART
+✅TNT
+✅SUN
 
-Punta Ng Playstore..
+Sa 👉Smart TNT Sun NoLoad 02👈
 
-Wag click Ang OPEN
-
-Click 7tunnel Pro
-
-Tapos UPDATE..
+Muna lahat mag connect.. Down pa Ang Isang CloudFront..
 
 Latest App Version: 4.3
+Latest Config Version: 5.5
 
-Latest Config Version: 5.3
-
-✅UPGRADED APP SECURITY
-
-✅ANTI SNIFF (SANA😁)
+Thanks and ENJOY FREE INTERNET ACCESS
 
 https://play.google.com/store/apps/details?id=ceven.tunnel.vpn.ph
 
 💯Enjoy your FREE ACCESS
+
+FYI! SA MGA USERS NG DWIGHT. STAY TUNED
 
 👉 For more queries, pm me directly
 🔗https://m.me/petevalientejr
