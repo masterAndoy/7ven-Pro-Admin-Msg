@@ -1,15 +1,19 @@
 {
-    "Message_version": "28",
+    "Message_version": "29",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-Kamusta CONNECTION GUYS?
+FOR UPDATE:
+
+ADDED GTM NOLOAD GAMING
+
+ADDED PROMONET GAMING
 
 LATEST VERSION:
 
 APP: 4.3
-CONFIG: 5.6
+CONFIG: 5.8
 
 DONT FORGET SA PAG IPONNNG COINA PARA S MAUBUSAN NG DURATION.
 
