@@ -1,14 +1,12 @@
 {
-    "Message_version": "32",
+    "Message_version": "33",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-✅ALL SERVERS REBOOTED
+✅REBOOT SCHEDULE
 
 IT MAY TAKE AWHILE TO CONNECT..
-
-HAVE A BLESSED SUNDAY EVERYONE!!
 
 LATEST VERSION:
 
@@ -22,8 +20,6 @@ SHARE WHAT WE'VE GOT🥰
 DONT FORGET SA PAG IPONNNG COINA PARA S MAUBUSAN NG DURATION.
 
 Thanks and ENJOY FREE INTERNET ACCESS
-
-https://play.google.com/store/apps/details?id=ceven.tunnel.vpn.ph
 
 💯Enjoy your FREE ACCESS
 
