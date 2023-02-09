@@ -1,5 +1,5 @@
 {
-    "Message_version": "36",
+    "Message_version": "37",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
@@ -11,9 +11,11 @@
 📌PWEDE GUMAMIT NG REGISTERED SIM BUT REST
 ASSURED ITO AY HINDI PERSONAL SIM
 
-📌KADALASAN NA BBLOCK 5GB UP Daiy...
+📌Limit muna sa 2gb or less pa daily...
 
 📌IWASAN ANG PAG DOWNLOAD NG BIG FILES
+
+🏆Suggested sim: GLOBE TM
 
 📌BE RESPONSIBLE SA PAG GAMIT NG VPN
  AT DATA USAGE NYO
