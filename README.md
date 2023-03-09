@@ -1,10 +1,11 @@
 {
-    "Message_version": "41",
+    "Message_version": "42",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
 📌LATEST UPDATE
+✅TGIF!!!!
 
 ✅DONE REBOOTING
 
