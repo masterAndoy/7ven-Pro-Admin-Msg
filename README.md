@@ -4,18 +4,13 @@
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-📌SA LAHAT NG USERS NG 7TUNNEL!!
-✅PA REUPDATE SA PLAYSTORE!!!!
+✅SA LAHAT PO NG USERS NG APP NA ITO
 
-✅IF HINDI MA DOWNLOAD. UNINSTALL AT INSTALL ANG NASA PLAYSTORE
+✅PLS DOWNLOAD CE7VEN PLUS SA PLAYSTORE
 
-✅APP VERSION 5.7
-✅CONFIG VERSION 5.0
+✅FOR APPROVAL PA ANG 7PLUS PARA SA GTM NOLOAD
 
-💯Enjoy your FREE ACCESS
+👉 For more queries, pm me directly 🔗https://m.me/petevalientejr
 
-👉 For more queries, pm me directly
-🔗https://m.me/petevalientejr
-
-Your Connection is OUR PRIORITY."
+Your Connection is OUR PRIORITY." }
 }
