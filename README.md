@@ -1,14 +1,16 @@
 {
-    "Message_version": "43",
+    "Message_version": "44",
     "My_Message": "📌📌BASA📌📌
 
 ⚠️⚠️ ATTENTION ⚠️⚠️
 
-✅SA LAHAT PO NG USERS NG APP NA ITO
+✅SERVER UPDATE COMING SOON
 
-✅PLS DOWNLOAD CE7VEN PLUS SA PLAYSTORE
+✅ADDED UDP SERVERS
+✅ADDED DNSTT SERVERS (GTM GOMO)
+✅ADDED CAMBODIA PROMO PACK
 
-✅FOR APPROVAL PA ANG 7PLUS PARA SA GTM NOLOAD
+PLS FOLLOW ON MY FB for more UPDATES!!
 
 👉 For more queries, pm me directly 🔗https://m.me/petevalientejr
 
